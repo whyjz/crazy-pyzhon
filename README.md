@@ -1,5 +1,7 @@
 # pyzhon-funlearn
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/whyjz/crazy-pyzhon/HEAD)
+
 本儲存庫放的 Jupyter Notebook 範例都是 Python 的教學範例，然而特殊之處是所有的程式碼皆儘可能的使用中文。
 拜 Python 3 支援 UTF-8 所賜，使用中文撰寫程式碼變得可能，除了少數幾個關鍵字外，中文使用者可以更直覺的理解
 程式碼內容。
